@@ -1,0 +1,21 @@
+h1 {
+    background-color: lightgreen;
+    color: red;
+}
+
+h2 {
+    background-color: lightblue;
+    color: yellow;
+}
+
+.parent {
+    color: red;
+}
+
+.child {
+    color: blue;
+}
+
+#link {
+    color: brown;
+}
