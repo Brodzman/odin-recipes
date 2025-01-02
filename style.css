@@ -1,11 +1,15 @@
 h1 {
     background-color: lightgreen;
     color: red;
+    margin-right: 1100px;
+    padding: 10px;
 }
 
 h2 {
     background-color: lightblue;
     color: yellow;
+    margin-right: 1100px;
+    padding: 10px;
 }
 
 .parent {
